@@ -63,8 +63,8 @@ With a background in **Network Engineering (CCNA)**, I bring a unique blend of *
 ---
 
 ## 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)]([https://linkedin.com/in/yourlinkedinid](https://www.linkedin.com/in/anjanachandran906/))
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)]([https://github.com/yourgithubusername](https://github.com/Anjanaachandran))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)]([https://linkedin.com/in/anjanachandran906](https://www.linkedin.com/in/anjanachandran906/))
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)]([https://github.com/Anjanaachandran](https://github.com/Anjanaachandran))
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anjanachandran906@gmail.com)
 
 ---
