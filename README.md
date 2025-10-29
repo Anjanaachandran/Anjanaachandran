@@ -7,8 +7,8 @@
 I'm a passionate **DevOps Engineer** with a strong foundation in **Cloud, Automation, CI/CD, and Infrastructure as Code (IaC)**.  
 With a background in **Network Engineering (CCNA)**, I bring a unique blend of **DevOps and Networking expertise** — bridging systems, networks, and automation to build reliable and scalable environments.  
 
-💡 I love solving real-world infrastructure challenges through **automation, containerization, and cloud-native tools**.  
-🌱 Currently exploring **Kubernetes, Terraform, and AWS advanced architectures**.  
+💡 I love solving real-world infrastructure challenges through **automation, containerization and cloud-native tools**.  
+🌱 Currently exploring **Docker, Kubernetes, Terraform, Jenkins and AWS advanced architectures**.  
 💬 Ask me about **DevOps pipelines, Linux, cloud deployment, or networking fundamentals**.  
 
 ---
@@ -62,10 +62,12 @@ With a background in **Network Engineering (CCNA)**, I bring a unique blend of *
 
 ---
 
-## 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)]([https://linkedin.com/in/anjanachandran906](https://www.linkedin.com/in/anjanachandran906/))
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)]([https://github.com/Anjanaachandran](https://github.com/Anjanaachandran))
+## 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anjanachandran906/)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Anjanaachandran)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anjanachandran906@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/itsme.anjana.chandran?igsh=aHlhaTlzbmFvbGx2)
 
 ---
 
