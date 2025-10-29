@@ -46,6 +46,20 @@ With a background in **Network Engineering (CCNA)**, I bring a unique blend of *
 
 ---
 
+### ✨ Tech Stack
+
+<p align="center">
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" style="margin: 5px;"/></a>
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" height="40" style="margin: 5px;"/></a>
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" style="margin: 5px;"/></a>
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" height="40" style="margin: 5px;"/></a>
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="40" height="40" style="margin: 5px;"/></a>
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" style="margin: 5px;"/></a>
+</p>
+
+
+---
+
 ## 🧩 Projects
 | 🔹 Project | 🛠️ Tech Stack | 📄 Description |
 |-------------|---------------|----------------|
